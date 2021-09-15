@@ -1,0 +1,46 @@
+a,
+a:visited {
+	text-decoration: none;
+}
+
+img {
+	vertical-align: top;
+	width: 100%;
+}
+
+.text-one {
+	color: green;
+}
+
+.text-two {
+	color: red;
+}
+
+.text-three {
+	color: blue;
+}
+
+.text-four {
+	color: chocolate;
+}
+
+.text-five {
+	color: cornflowerblue;
+}
+
+.text-six {
+	color: crimson;
+}
+
+footer,
+.text-seven {
+	color: darkgreen;
+}
+
+p.brown {
+	color: brown;
+}
+
+#pink {
+	color: pink;
+}
